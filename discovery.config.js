@@ -49,8 +49,8 @@ module.exports = {
   storeUrl: "https://nolab2b1.b2bdemo.app",
   secureSubdomain: "https://secure.vtexfaststore.com/",
   checkoutUrl: "https://nolab2b1.b2bdemo.app/checkout",
-  loginUrl: "https://secure.vtexfaststore.com/api/io/login",
-  accountUrl: "https://secure.vtexfaststore.com/api/io/account",
+  loginUrl: "https://nolab2b1.b2bdemo.app/api/io/login",
+  accountUrl: "https://nolab2b1.b2bdemo.app/api/io/account",
 
   previewRedirects: {
     home: '/',
